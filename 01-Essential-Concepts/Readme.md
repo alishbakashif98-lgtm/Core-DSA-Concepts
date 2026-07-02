@@ -60,3 +60,20 @@ New value of r: 25
 ```
 
 ---
+
+## pointer_to_structure.cpp
+```
+Using Object (Dot Operator):
+Length: 10
+Breadth: 5
+
+Using Pointer (Arrow Operator):
+Length via Pointer: 10
+Breadth via Pointer: 5
+
+--- After Modifying via Pointer ---
+New Length: 20
+New Breadth: 15
+```
+
+---
