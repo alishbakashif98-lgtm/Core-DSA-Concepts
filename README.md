@@ -8,3 +8,5 @@ This folder contains programs implementing foundational concepts required for Da
 
 ### 1. Arrays Basics (`01_arrays_basics.cpp`)
 * **Concepts Covered:** Contiguous memory allocation, size calculation, and array traversal.
+### 2. Structures Basics (`02_structures_basics.cpp`)
+* **Concepts Covered:** Structure definition, variable initialization, dot (.) operator, and memory size calculation.
