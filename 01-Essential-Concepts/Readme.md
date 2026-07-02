@@ -46,3 +46,17 @@ Value pointed by p (*p): 20
 ```
 
 ---
+
+## reference_basics.cpp
+```
+Value of a: 10
+Value of r: 10
+Address of a: 0x61ff08
+Address of r: 0x61ff08
+
+--- Modifying value through Reference ---
+New value of a: 25
+New value of r: 25
+```
+
+---
