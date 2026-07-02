@@ -10,3 +10,5 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Contiguous memory allocation, size calculation, and array traversal.
 ### 2. Structures Basics (`02_structures_basics.cpp`)
 * **Concepts Covered:** Structure definition, variable initialization, dot (.) operator, and memory size calculation.
+### 3. Pointers Basics (`03_pointers_basics.cpp`)
+* **Concepts Covered:** Pointer declaration, Address-of operator (&), Dereferencing operator (*), and modifying values using pointers.
