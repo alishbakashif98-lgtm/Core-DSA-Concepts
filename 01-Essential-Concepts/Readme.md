@@ -77,3 +77,12 @@ New Breadth: 15
 ```
 
 ---
+
+## functions_basics.cpp
+```
+Value of a: 10
+Value of b: 20
+Sum (Result from function): 30
+```
+
+---
