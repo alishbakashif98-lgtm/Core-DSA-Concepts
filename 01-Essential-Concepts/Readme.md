@@ -15,3 +15,17 @@ Total size of array A in memory: 20 bytes
 ```
 
 ---
+
+## structures_basics.cpp
+```
+Initial Length: 10
+Initial Breadth: 5
+
+--- After Modifying Values ---
+New Length: 15
+New Breadth: 8
+
+Total size of structure r1: 8 bytes
+```
+
+---
