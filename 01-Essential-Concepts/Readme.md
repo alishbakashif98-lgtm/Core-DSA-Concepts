@@ -29,3 +29,20 @@ Total size of structure r1: 8 bytes
 ```
 
 ---
+
+## pointers_basics.cpp
+```
+Value of a: 10
+Address of a (&a): 0x61ff0c
+Value stored in pointer p (Address of a): 0x61ff0c
+Address of pointer p itself (&p): 0x61ff08
+
+--- Dereferencing the Pointer ---
+Value pointed by p (*p): 10
+
+--- After Modifying Value via Pointer ---
+New value of a: 20
+Value pointed by p (*p): 20
+```
+
+---
