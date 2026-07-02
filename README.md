@@ -12,3 +12,5 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Structure definition, variable initialization, dot (.) operator, and memory size calculation.
 ### 3. Pointers Basics (`03_pointers_basics.cpp`)
 * **Concepts Covered:** Pointer declaration, Address-of operator (&), Dereferencing operator (*), and modifying values using pointers.
+### 4. Reference Basics (`04_reference_basics.cpp`)
+* **Concepts Covered:** Reference declaration (alias), memory address sharing, and modifying original data via reference.
