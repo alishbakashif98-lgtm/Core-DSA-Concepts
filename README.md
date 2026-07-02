@@ -16,3 +16,5 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Reference declaration (alias), memory address sharing, and modifying original data via reference.
 ### 5. Pointer to Structure (`05_pointer_to_structure.cpp`)
 * **Concepts Covered:** Structure pointer declaration, accessing members via arrow (->) operator, and dynamic member modification.
+### 6. Functions Basics (`06_functions_basics.cpp`)
+* **Concepts Covered:** Function definition, parameter passing (actual vs formal), execution flow, and return values.
