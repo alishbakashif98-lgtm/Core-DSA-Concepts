@@ -24,3 +24,9 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Passing arrays via base address pointers, array size passing requirement, and returning a dynamic array from Heap memory.
 ### 9. Structure as Parameter (`09_structure_as_parameter.cpp`)
 * **Concepts Covered:** Passing structures by value (copying), by address (using pointers and ->), and by reference (using aliases and .).
+### 10. Structure and Functions (`10_structure_and_functions.cpp`)
+* **Concepts Covered:** Procedural programming design, separation of data structure and operations, and dynamic initialization.
+### 11. C++ Classes and Constructors (`11_classes_and_constructors.cpp`)
+* **Concepts Covered:** Object-Oriented Programming (OOP), data encapsulation (private/public), parameterized constructors, and object behavior.
+### 12. C++ Template Classes (`12_template_class.cpp`)
+* **Concepts Covered:** Generic programming, template syntax, and reusability of classes for multiple data types (int/float).
