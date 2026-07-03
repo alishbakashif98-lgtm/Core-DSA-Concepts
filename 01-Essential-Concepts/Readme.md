@@ -156,7 +156,17 @@ Initial Area: 50
 --- Modifying Data via Member Function ---
 New Length: 15
 New Area: 75
+```
 
+---
+
+## template_class
+```
+--- Testing Template Class with Integer ---
+Integer Area: 50
+
+--- Testing Template Class with Float ---
+Float Area: 54.6
 ```
 
 ---
