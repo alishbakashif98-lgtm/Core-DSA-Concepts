@@ -114,3 +114,23 @@ Printing dynamic array elements in main: 10 20 30 40 50
 ```
 
 ---
+
+## struct_as_parameter.cpp
+```
+--- Initial Value in main ---
+Original Length: 10, Breadth: 5
+
+--- Testing Pass by Value ---
+Inside changeLengthValue (Copy): 20
+Value in main after function call: 10 (Unchanged)
+
+--- Testing Pass by Address ---
+Inside changeLengthAddress (Original): 30
+Value in main after function call: 30 (Changed!)
+
+--- Testing Pass by Reference ---
+Inside changeLengthReference (Original): 50
+Value in main after function call: 50 (Changed!)
+```
+
+---
