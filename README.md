@@ -1,32 +1,7 @@
 # Core-DSA-Concepts
-Well-organized collection of foundational DSA concepts using C and C++
-# Section 01: Essential C and C++ Concepts
+A well-organized repository containing fundamental to advanced Data Structures and Algorithms implemented in C and C++. This repository follows a structured learning path based on Master Classes.
 
-This folder contains programs implementing foundational concepts required for Data Structures and Algorithms.
+## 📂 Repository Structure & Sections
 
-## Programs
-
-### 1. Arrays Basics (`01_arrays_basics.cpp`)
-* **Concepts Covered:** Contiguous memory allocation, size calculation, and array traversal.
-### 2. Structures Basics (`02_structures_basics.cpp`)
-* **Concepts Covered:** Structure definition, variable initialization, dot (.) operator, and memory size calculation.
-### 3. Pointers Basics (`03_pointers_basics.cpp`)
-* **Concepts Covered:** Pointer declaration, Address-of operator (&), Dereferencing operator (*), and modifying values using pointers.
-### 4. Reference Basics (`04_reference_basics.cpp`)
-* **Concepts Covered:** Reference declaration (alias), memory address sharing, and modifying original data via reference.
-### 5. Pointer to Structure (`05_pointer_to_structure.cpp`)
-* **Concepts Covered:** Structure pointer declaration, accessing members via arrow (->) operator, and dynamic member modification.
-### 6. Functions Basics (`06_functions_basics.cpp`)
-* **Concepts Covered:** Function definition, parameter passing (actual vs formal), execution flow, and return values.
-### 7. Parameter Passing Methods (`07_parameter_passing.cpp`)
-* **Concepts Covered:** Pass by value, Pass by Address (Pointers), and Pass by Reference (C++ aliases) mechanism with swap example.
-### 8. Array as Parameter (`08_array_as_parameter.cpp`)
-* **Concepts Covered:** Passing arrays via base address pointers, array size passing requirement, and returning a dynamic array from Heap memory.
-### 9. Structure as Parameter (`09_structure_as_parameter.cpp`)
-* **Concepts Covered:** Passing structures by value (copying), by address (using pointers and ->), and by reference (using aliases and .).
-### 10. Structure and Functions (`10_structure_and_functions.cpp`)
-* **Concepts Covered:** Procedural programming design, separation of data structure and operations, and dynamic initialization.
-### 11. C++ Classes and Constructors (`11_classes_and_constructors.cpp`)
-* **Concepts Covered:** Object-Oriented Programming (OOP), data encapsulation (private/public), parameterized constructors, and object behavior.
-### 12. C++ Template Classes (`12_template_class.cpp`)
-* **Concepts Covered:** Generic programming, template syntax, and reusability of classes for multiple data types (int/float).
+### 📁 [01-Essential-Concepts](./01-Essential-Concepts/)
+This section covers the absolute prerequisites required for DSA before diving into core structures. It includes foundational implementations of arrays (memory layouts), user-defined structures, pointer manipulation, memory management, reference mechanics, parameter passing methods (value, address, reference), and modern C++ features like classes, constructors, and template classes (generics).
