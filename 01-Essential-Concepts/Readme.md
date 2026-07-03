@@ -86,3 +86,20 @@ Sum (Result from function): 30
 ```
 
 ---
+
+## parameter_passing.cpp
+```
+--- Initial Values ---
+a = 10, b = 20
+
+--- After swapByValue ---
+a = 10, b = 20 (No change)
+
+--- After swapByAddress ---
+a = 20, b = 10 (Values Swapped!)
+
+--- After swapByReference ---
+a = 20, b = 10 (Values Swapped!)
+```
+
+---

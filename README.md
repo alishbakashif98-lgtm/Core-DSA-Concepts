@@ -18,3 +18,5 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Structure pointer declaration, accessing members via arrow (->) operator, and dynamic member modification.
 ### 6. Functions Basics (`06_functions_basics.cpp`)
 * **Concepts Covered:** Function definition, parameter passing (actual vs formal), execution flow, and return values.
+### 7. Parameter Passing Methods (`07_parameter_passing.cpp`)
+* **Concepts Covered:** Pass by value, Pass by Address (Pointers), and Pass by Reference (C++ aliases) mechanism with swap example.
