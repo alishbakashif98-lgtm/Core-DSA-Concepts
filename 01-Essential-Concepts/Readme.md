@@ -103,3 +103,14 @@ a = 20, b = 10 (Values Swapped!)
 ```
 
 ---
+
+## array_as_parameter.cpp
+```
+--- Test 1: Passing Static Array ---
+Printing elements inside function: 2 4 6 8 10 
+
+--- Test 2: Returning Array from Function ---
+Printing dynamic array elements in main: 10 20 30 40 50 
+```
+
+---
