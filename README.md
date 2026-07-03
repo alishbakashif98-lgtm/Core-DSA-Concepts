@@ -22,3 +22,5 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Pass by value, Pass by Address (Pointers), and Pass by Reference (C++ aliases) mechanism with swap example.
 ### 8. Array as Parameter (`08_array_as_parameter.cpp`)
 * **Concepts Covered:** Passing arrays via base address pointers, array size passing requirement, and returning a dynamic array from Heap memory.
+### 9. Structure as Parameter (`09_structure_as_parameter.cpp`)
+* **Concepts Covered:** Passing structures by value (copying), by address (using pointers and ->), and by reference (using aliases and .).
