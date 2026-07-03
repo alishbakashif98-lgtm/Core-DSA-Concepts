@@ -4,7 +4,7 @@ Well-organized collection of foundational DSA concepts using C and C++
 
 This folder contains programs implementing foundational concepts required for Data Structures and Algorithms.
 
-## Programs & Outputs
+## Programs
 
 ### 1. Arrays Basics (`01_arrays_basics.cpp`)
 * **Concepts Covered:** Contiguous memory allocation, size calculation, and array traversal.
@@ -20,3 +20,5 @@ This folder contains programs implementing foundational concepts required for Da
 * **Concepts Covered:** Function definition, parameter passing (actual vs formal), execution flow, and return values.
 ### 7. Parameter Passing Methods (`07_parameter_passing.cpp`)
 * **Concepts Covered:** Pass by value, Pass by Address (Pointers), and Pass by Reference (C++ aliases) mechanism with swap example.
+### 8. Array as Parameter (`08_array_as_parameter.cpp`)
+* **Concepts Covered:** Passing arrays via base address pointers, array size passing requirement, and returning a dynamic array from Heap memory.
