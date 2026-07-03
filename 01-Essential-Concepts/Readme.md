@@ -134,3 +134,16 @@ Value in main after function call: 50 (Changed!)
 ```
 
 ---
+
+## struct_and_functions.cpp
+```
+--- Initializing Rectangle ---
+Length: 10, Breadth: 5
+Area of Rectangle: 50
+
+--- Modifying Length via Function ---
+New Length: 15
+New Area of Rectangle: 75
+```
+
+---
