@@ -147,3 +147,16 @@ New Area of Rectangle: 75
 ```
 
 ---
+
+## classes_and_constructors
+```
+--- Creating Object & Automatic Initialization via Constructor ---
+Initial Area: 50
+
+--- Modifying Data via Member Function ---
+New Length: 15
+New Area: 75
+
+```
+
+---
