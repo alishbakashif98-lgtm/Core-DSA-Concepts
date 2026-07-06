@@ -53,3 +53,13 @@ Result of fun(95): 91
 ```
 
 ---
+
+## sum_of_n.cpp.cpp
+```
+--- Sum of First 5 Natural Numbers ---
+Using Recursion: 15
+Using Loop:      15
+Using Formula:   15
+```
+
+---
