@@ -72,3 +72,12 @@ Using Loop:      120
 ```
 
 ---
+
+## power_recursion.cpp
+```
+--- Calculating 2^8 ---
+Using Normal Recursion (Linear):    256
+Using Optimized Recursion (Faster): 256
+```
+
+---
