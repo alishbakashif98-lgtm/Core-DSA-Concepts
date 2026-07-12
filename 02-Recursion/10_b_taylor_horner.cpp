@@ -26,6 +26,7 @@ double taylorHorner(int x, int n) {
     return taylorHorner(x, n - 1); // Linear recursive execution
 }
 
+
 int main() {
     int x = 1;
     int n = 10;
