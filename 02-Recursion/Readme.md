@@ -106,3 +106,19 @@ Using Optimized Memoization: 13
 ```
 
 ---
+
+## tower_of_hanoi.cpp
+```
+--- Tower of Hanoi Step-by-Step Moves for 3 Disks ---
+Tower Identifiers: 1 = Source (A), 2 = Helper (B), 3 = Destination (C)
+
+Move disk from Tower 1 to Tower 3
+Move disk from Tower 1 to Tower 2
+Move disk from Tower 3 to Tower 2
+Move disk from Tower 1 to Tower 3
+Move disk from Tower 2 to Tower 1
+Move disk from Tower 2 to Tower 3
+Move disk from Tower 1 to Tower 3
+```
+
+---
