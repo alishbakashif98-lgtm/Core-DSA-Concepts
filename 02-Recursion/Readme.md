@@ -81,3 +81,11 @@ Using Optimized Recursion (Faster): 256
 ```
 
 ---
+
+## taylor_series.cpp
+```
+--- Taylor Series (e^x) Expansion ---
+Value of e^1 with 10 terms is: 2.71828
+```
+
+---
