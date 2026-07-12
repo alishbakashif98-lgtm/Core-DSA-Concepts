@@ -97,3 +97,12 @@ Optimized e^1 value: 2.71828
 ```
 
 ---
+
+## fibonacci_memoization.cpp
+```
+--- Fibonacci Calculation (Term 7) ---
+Using Normal Tree Recursion: 13
+Using Optimized Memoization: 13
+```
+
+---
