@@ -89,3 +89,11 @@ Value of e^1 with 10 terms is: 2.71828
 ```
 
 ---
+
+## b_taylor_series.cpp
+```
+--- Taylor Series via Horner's Rule ---
+Optimized e^1 value: 2.71828
+```
+
+---
