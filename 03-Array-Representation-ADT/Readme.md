@@ -19,3 +19,13 @@ Array size successfully increased dynamically!
 ```
 
 ---
+
+## 2d_arrays.cpp
+```
+--- 2D Array (Double Pointer Model) Output ---
+1 2 3 4 
+5 6 7 8 
+9 10 11 12 
+```
+
+---
