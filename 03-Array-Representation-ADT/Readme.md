@@ -29,3 +29,17 @@ Array size successfully increased dynamically!
 ```
 
 ---
+
+## array_adt_basics.cpp
+```
+--- Array ADT Basics: Display & Append ---
+Elements are: 12 15 25 
+
+Appending 45 to the array...
+Elements are: 12 15 25 45 
+
+Appending 70 to the array...
+Elements are: 12 15 25 45 70 
+```
+
+---
