@@ -10,3 +10,12 @@
 ```
 
 ---
+
+## increase_array_size.cpp
+```
+--- Expanded Heap Array Elements ---
+2 4 6 8 10 
+Array size successfully increased dynamically!
+```
+
+---
