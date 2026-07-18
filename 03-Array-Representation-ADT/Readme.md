@@ -43,3 +43,23 @@ Elements are: 12 15 25 45 70
 ```
 
 ---
+
+## array_adt_insert.cpp
+```
+--- Array ADT: Insert Operation Showcase ---
+Current Elements: 10 20 30 40 
+
+[Test 1] Inserting 25 at index 2...
+Successfully inserted 25 at index 2
+Current Elements: 10 20 25 30 40 
+
+[Test 2] Inserting 50 at index 5 (current length)...
+Successfully inserted 50 at index 5
+Current Elements: 10 20 25 30 40 50 
+
+[Test 3] Attempting to insert 99 at an unreachable index 8...
+Insert Error: Invalid Index 8 (Out of bounds)!
+Current Elements: 10 20 25 30 40 50 
+```
+
+---
