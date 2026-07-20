@@ -97,3 +97,17 @@ After Move-To-Head (30 jumped to index 0): Current Elements: 30 10 20 50 40
 ```
 
 ---
+
+## array_adt_binary_search.cpp
+```
+--- Array ADT: Binary Search Showcase ---
+Current Elements: 10 20 30 40 50 
+
+[Iterative] Searching for key 40...
+Result: Found at index 3
+
+[Recursive] Searching for key 40...
+Result: Found at index 3
+```
+
+---
