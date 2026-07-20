@@ -82,3 +82,18 @@ Delete Error: Invalid Index -5!
 ```
 
 ---
+
+## array_adt_linear_search.cpp
+```
+--- Array ADT: Linear Search Showcase ---
+Current Elements: 40 10 20 50 30 
+Searching for 20... Found at index: 2
+
+Before Transposition Search: Current Elements: 40 10 20 50 30 
+After Transposition (50 moved 1 step ahead): Current Elements: 40 10 50 20 30 
+
+Before Move-To-Head Search: Current Elements: 40 10 20 50 30 
+After Move-To-Head (30 jumped to index 0): Current Elements: 30 10 20 50 40 
+```
+
+---
