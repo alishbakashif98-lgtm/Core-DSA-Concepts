@@ -63,3 +63,22 @@ Current Elements: 10 20 25 30 40 50
 ```
 
 ---
+
+## array_adt_delete.cpp
+```
+--- Array ADT: Easy Delete Showcase ---
+Current Array: 10 20 30 40 50 
+
+[Test 1] Deleting element from index 1...
+Deleted Value: 20
+Current Array: 10 30 40 50 
+
+[Test 2] Deleting the last element (index 3)...
+Deleted Value: 50
+Current Array: 10 30 40 
+
+[Test 3] Attempting to delete from invalid index -5...
+Delete Error: Invalid Index -5!
+```
+
+---
