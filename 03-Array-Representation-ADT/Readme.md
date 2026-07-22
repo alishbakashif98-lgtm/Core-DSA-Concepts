@@ -143,3 +143,24 @@ After Left Shift (first element removed, 0 added at end): Current Elements: 20 3
 ```
 
 ---
+
+## sorted_array_operations.cpp
+```
+--- Array ADT: Sorted Operations & Rearrangement ---
+
+[Test 1] Original Sorted Array: Current Elements: 10 20 35 45 60 
+Successfully inserted 30 in sorted order.
+Current Elements: 10 20 30 35 45 60 
+
+[Test 2] Checking IsSorted Status...
+Checking current array: Current Elements: 10 20 30 35 45 60 
+Is Sorted? Yes (True)
+Checking unsorted array: Current Elements: 10 50 20 40 30 
+Is Sorted? No (False)
+
+[Test 3] Rearranging Positives & Negatives...
+Before Rearranging: Current Elements: -6 3 -8 10 5 -2 7 
+After Rearranging (Negatives on left, Positives on right): Current Elements: -6 -2 -8 10 5 3 7 
+```
+
+---
