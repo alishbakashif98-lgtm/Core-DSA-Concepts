@@ -129,3 +129,17 @@ Average Value:   55.8
 ```
 
 ---
+
+## array_adt_reverse_shift.cpp
+```
+--- Array ADT: Reverse & Shift Operations ---
+
+Original Array: Current Elements: 10 20 30 40 50 
+After In-Place Reversing: Current Elements: 50 40 30 20 10 
+After Auxiliary Reversing: Current Elements: 50 40 30 20 10 
+
+Before Left Shift: Current Elements: 10 20 30 40 50 
+After Left Shift (first element removed, 0 added at end): Current Elements: 20 30 40 50 0 
+```
+
+---
