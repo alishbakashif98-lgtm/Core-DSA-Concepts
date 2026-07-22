@@ -111,3 +111,21 @@ Result: Found at index 3
 ```
 
 ---
+
+## array_adt_get_set_stats.cpp
+```
+--- Array ADT: Get, Set, & Statistics Operations ---
+Current Elements: 12 45 23 89 34 
+
+[Get] Element at index 3 is: 89
+Successfully set index 2 to value 99
+Current Elements: 12 45 99 89 34 
+
+--- Array Analytics ---
+Maximum Element: 99
+Minimum Element: 12
+Sum of Elements: 279
+Average Value:   55.8
+```
+
+---
