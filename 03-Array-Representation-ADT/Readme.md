@@ -164,3 +164,15 @@ After Rearranging (Negatives on left, Positives on right): Current Elements: -6 
 ```
 
 ---
+
+## merge_sorted_arrays.cpp
+```
+--- Array ADT: Merging Two Sorted Arrays ---
+Array 1: Current Elements: 3 8 16 20 25 
+Array 2: Current Elements: 4 10 12 22 23 
+
+Merging both sorted arrays into Array 3...
+Merged Array 3: Current Elements: 3 4 8 10 12 16 20 22 23 25 
+```
+
+---
