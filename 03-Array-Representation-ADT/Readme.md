@@ -195,5 +195,20 @@ Current Elements: 2 10 25
 
 ---
 
+## array_adt_missing_elements.cpp
+```
+--- Array ADT: Finding Missing Elements Showcase ---
+
+[Case 1] First N Natural Numbers Missing Item: 5
+
+[Case 2] Sorted Array Single Missing Item: 11
+
+[Case 3] Sorted Array Multiple Items: Missing elements: 8 10 13 14 
+
+[Case 4] Unsorted Array Multiple Items (Hashing): Missing elements: 5 8 
+```
+
+---
+
 
 
