@@ -210,5 +210,32 @@ Current Elements: 2 10 25
 
 ---
 
+## array_adt_duplicates_and_pairs.cpp
+```
+--- Array ADT: Duplicates & Target Sum Pairs Showcase ---
+
+[Test 1] Sorted Array Duplicates:
+Duplicates in Sorted Array: 
+  Element 8 appears 2 times.
+  Element 15 appears 3 times.
+
+[Test 2] Unsorted Array Duplicates (Hashing):
+Duplicates in Unsorted Array (Hashing): 
+  Element 6 appears 3 times.
+  Element 8 appears 2 times.
+
+[Test 3] Target Sum Pairs K = 10 (Unsorted Array):
+Pairs with Sum 10 (Unsorted Hashing): 
+  Pair Found: (7, 3)
+  Pair Found: (2, 8)
+
+[Test 4] Target Sum Pairs K = 10 (Sorted Array):
+Pairs with Sum 10 (Sorted Two-Pointer): 
+  Pair Found: (1, 9)
+  Pair Found: (4, 6)
+```
+
+---
+
 
 
