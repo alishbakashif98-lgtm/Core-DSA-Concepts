@@ -176,3 +176,24 @@ Merged Array 3: Current Elements: 3 4 8 10 12 16 20 22 23 25
 ```
 
 ---
+
+## array_set_operations.cpp
+```
+--- Array ADT: Set Operations (Sorted Arrays) ---
+Array 1 (A): Current Elements: 2 6 10 15 25 
+Array 2 (B): Current Elements: 3 6 15 20 30 
+
+[1] Set Union (A U B):
+Current Elements: 2 3 6 10 15 20 25 30 
+
+[2] Set Intersection (A N B):
+Current Elements: 6 15 
+
+[3] Set Difference (A - B):
+Current Elements: 2 10 25 
+```
+
+---
+
+
+
