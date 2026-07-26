@@ -237,5 +237,51 @@ Pairs with Sum 10 (Sorted Two-Pointer):
 
 ---
 
+## array_adt_menu_driver.cpp
+```
+==================================================
+      ARRAY ADT: INTERACTIVE MENU DRIVER          
+==================================================
+[System]: Array initialized with 10 elements: {10, 20, 30, 40, 50, 60, 70, 80, 90, 100}
+
+---------------- MENU OPTIONS ----------------
+1. Display Elements      2. Append Element
+3. Insert at Index       4. Delete from Index
+5. Linear Search         6. Binary Search
+7. Get Value at Index    8. Set Value at Index
+9. Find Max & Min       10. Sum & Average
+11. Reverse Array        0. Exit
+----------------------------------------------
+Enter your choice: 6
+Enter key to search (Binary - Sorted Array): 50
+[Found] Element located at index 4
+
+---------------- MENU OPTIONS ----------------
+1. Display Elements      2. Append Element
+3. Insert at Index       4. Delete from Index
+5. Linear Search         6. Binary Search
+7. Get Value at Index    8. Set Value at Index
+9. Find Max & Min       10. Sum & Average
+11. Reverse Array        0. Exit
+----------------------------------------------
+Enter your choice: 7
+Enter index: 8
+Value at index 8 is 90
+
+---------------- MENU OPTIONS ----------------
+1. Display Elements      2. Append Element
+3. Insert at Index       4. Delete from Index
+5. Linear Search         6. Binary Search
+7. Get Value at Index    8. Set Value at Index
+9. Find Max & Min       10. Sum & Average
+11. Reverse Array        0. Exit
+----------------------------------------------
+Enter your choice: 0
+
+Exiting Array ADT Application. Goodbye!
+```
+
+---
+
 
 
