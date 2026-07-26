@@ -27,3 +27,17 @@ Current String: wElCoMe tO c++ pRoGrAmMiNg
 ```
 
 ---
+
+## string_analytics_and_counting.cpp
+```
+--- String Operations: Analytics & Counting Showcase ---
+Input String: "How   are  you  321?  Welcome to C++ DSA!"
+
+--- STRING ANALYSIS RESULTS ---
+1. Vowels Count:        10
+2. Consonants Count:    12
+3. Words Count:         8
+4. Special Symbols:     4
+```
+
+---
