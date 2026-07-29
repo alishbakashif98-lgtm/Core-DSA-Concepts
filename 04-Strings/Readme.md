@@ -54,3 +54,14 @@ Result: Invalid String
 ```
 
 ---
+
+## string_comparison_and_palindrome.cpp
+```
+--- Palindrome Checker ---
+
+String 1: "MADAM" -> Is a Palindrome!
+
+String 2: "HELLO" -> Not a Palindrome!
+```
+
+---
