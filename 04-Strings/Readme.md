@@ -41,3 +41,16 @@ Input String: "How   are  you  321?  Welcome to C++ DSA!"
 ```
 
 ---
+
+## string_validation_and_reversal.cpp
+```
+--- String Operations: Validation & Reversal Showcase ---
+
+[Validation Test 1]: Current String: "Ani321"
+Result: Valid String (Alphanumeric)
+
+[Validation Test 2]: Current String: "Ani?321#"
+Result: Invalid String
+```
+
+---
