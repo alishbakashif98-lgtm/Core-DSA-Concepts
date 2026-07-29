@@ -108,3 +108,16 @@ Duplicate Characters Found (Bitwise Method):
 ```
 
 ---
+
+## checking_anagrams.cpp
+```
+--- String Operations: Anagram Verification ---
+
+[Test 1] Comparing: "verbose" and "observe"
+Result: Both strings ARE Anagrams!
+
+[Test 2] Comparing: "apple" and "apply"
+Result: Strings are NOT Anagrams!
+```
+
+---
