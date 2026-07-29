@@ -65,3 +65,23 @@ String 2: "HELLO" -> Not a Palindrome!
 ```
 
 ---
+
+## finding_duplicates.cpp
+```
+--- String Operations: Finding Duplicates ---
+
+Input String 1: "finding"
+
+Duplicate Characters Found:
+  * Character 'i' appears 2 times.
+  * Character 'n' appears 2 times.
+
+Input String 2: "programming"
+
+Duplicate Characters Found:
+  * Character 'g' appears 2 times.
+  * Character 'm' appears 2 times.
+  * Character 'r' appears 2 times.
+```
+
+---
