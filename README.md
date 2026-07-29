@@ -12,3 +12,7 @@ This section focuses entirely on understanding the mechanics of recursive proces
 ### 📂 [03-Array-Representation-ADT](./03-Array-Representation-ADT/)
 
 This section focuses on the deep core mechanics of array representations and modern Abstract Data Type (ADT) design in C++. It covers 1D and multi-dimensional dynamic memory allocations, contiguous vs pointer-based matrix layouts, fundamental operations (insertion, deletion, search optimizations), sorted array manipulations, mathematical set operations, hashing-based search strategies, and a complete interactive menu-driven console application.
+
+### 📂 [04-Strings](./04-Strings/)
+
+This section covers fundamental and advanced string manipulation algorithms in C++. It explores character array representations, length calculation, case conversions (uppercase, lowercase, toggle), analytics (vowel, consonant, and word counting), in-place string reversal, validation, lexicographical comparisons, palindrome verification, duplicate detection via hash arrays and bitmasking, anagram checking, and string permutations using recursive backtracking.
