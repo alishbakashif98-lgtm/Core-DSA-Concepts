@@ -121,3 +121,19 @@ Result: Strings are NOT Anagrams!
 ```
 
 ---
+
+## string_permutations.cpp
+```
+--- String Operations: Finding Permutations ---
+
+Generating All Permutations for: "ABC"
+  1. ABC
+  2. ACB
+  3. BAC
+  4. BCA
+  5. CBA
+  6. CAB
+Total Permutations Generated: 6
+```
+
+---
