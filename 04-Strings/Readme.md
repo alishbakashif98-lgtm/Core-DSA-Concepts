@@ -85,3 +85,26 @@ Duplicate Characters Found:
 ```
 
 ---
+
+## finding_duplicates_bitwise.cpp
+```
+--- String Operations: Finding Duplicates (Bitwise) ---
+
+Input String 1: "finding"
+
+Duplicate Characters Found (Bitwise Method):
+  * Duplicate found: 'i'
+  * Duplicate found: 'n'
+
+Input String 2: "datastructures"
+
+Duplicate Characters Found (Bitwise Method):
+  * Duplicate found: 'a'
+  * Duplicate found: 't'
+  * Duplicate found: 't'
+  * Duplicate found: 'u'
+  * Duplicate found: 'r'
+  * Duplicate found: 's'
+```
+
+---
