@@ -31,3 +31,19 @@ Element at (1,4): 0
 ```
 
 ---
+
+## upper_triangular_matrix.cpp
+```
+--- Upper Triangular Matrix (Row-Major) ---
+
+Matrix Output:
+11 12 13 14 
+0 22 23 24 
+0 0 33 34 
+0 0 0 44 
+
+Element at (1,3): 13
+Element at (3,1): 0
+```
+
+---
