@@ -47,3 +47,19 @@ Element at (3,1): 0
 ```
 
 ---
+
+## symmetric_matrix.cpp
+```
+--- Symmetric Matrix Showcase ---
+
+Matrix Output:
+2 3 4 5 
+3 6 8 9 
+4 8 7 1 
+5 9 1 3 
+
+Element at (2,1): 3
+Element at (1,2) [Symmetric Mirror]: 3
+```
+
+---
