@@ -110,3 +110,15 @@ Sum Matrix Output (s1 + s2):
 ```
 
 ---
+
+## polynomial_representation.cpp
+```
+--- Polynomial Representation & Addition ---
+
+Polynomial 1: 3x^4 + 2x^2 + 5x^0
+Polynomial 2: 5x^4 + 3x^3 + 1x^2 + 7x^0
+
+Sum Polynomial (P1 + P2): 8x^4 + 3x^3 + 3x^2 + 12x^0
+```
+
+---
