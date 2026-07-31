@@ -63,3 +63,22 @@ Element at (1,2) [Symmetric Mirror]: 3
 ```
 
 ---
+
+## tridiagonal_matrix.cpp
+```
+--- Tridiagonal Matrix Showcase ---
+
+Matrix Output:
+1 3 0 0 0 
+2 1 3 0 0 
+0 2 1 3 0 
+0 0 2 1 3 
+0 0 0 2 1 
+
+Element at (3,3) [Main]:  1
+Element at (4,3) [Lower]: 2
+Element at (2,3) [Upper]: 3
+Element at (1,4) [Out]:   0
+```
+
+---
