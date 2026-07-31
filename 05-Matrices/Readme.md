@@ -82,3 +82,31 @@ Element at (1,4) [Out]:   0
 ```
 
 ---
+
+## sparse_matrix.cpp
+```
+--- Sparse Matrix Representation & Addition ---
+
+Matrix 1 Output:
+0 0 0 0 0 
+0 10 0 0 0 
+0 0 0 20 0 
+0 0 0 0 0 
+0 0 0 0 30 
+
+Matrix 2 Output:
+0 0 5 0 0 
+0 0 0 0 0 
+0 0 0 15 0 
+0 25 0 0 0 
+0 0 0 0 0 
+
+Sum Matrix Output (s1 + s2):
+0 0 5 0 0 
+0 10 0 0 0 
+0 0 0 35 0 
+0 25 0 0 0 
+0 0 0 0 30 
+```
+
+---
