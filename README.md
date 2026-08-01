@@ -16,3 +16,6 @@ This section focuses on the deep core mechanics of array representations and mod
 ### 📂 [04-Strings](./04-Strings/)
 
 This section covers fundamental and advanced string manipulation algorithms in C++. It explores character array representations, length calculation, case conversions (uppercase, lowercase, toggle), analytics (vowel, consonant, and word counting), in-place string reversal, validation, lexicographical comparisons, palindrome verification, duplicate detection via hash arrays and bitmasking, anagram checking, and string permutations using recursive backtracking.
+
+### 📁 [05-Matrices](./05-Matrices/)
+This section covers special square matrix representations (Diagonal, Lower/Upper Triangular, Symmetric, Tridiagonal) and Sparse Matrices using 1D/2D dynamic array optimizations in $O(1)$ space/access time, along with polynomial representation and addition.
