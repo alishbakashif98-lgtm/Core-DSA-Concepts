@@ -33,3 +33,13 @@ Sum of Elements (Recursive) : 150
 ```
 
 ---
+
+## max_element.cpp
+```
+--- Linked List: Max Element Operations ---
+
+Maximum Element (Iterative) : 89
+Maximum Element (Recursive) : 89
+```
+
+---
