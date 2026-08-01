@@ -65,3 +65,21 @@ Linked List After Insertions: 5 -> 10 -> 20 -> 25 -> 30 -> NULL
 ```
 
 ---
+
+## insert_in_sorted.cpp
+```
+--- Linked List: Insert in Sorted List ---
+
+Initial Sorted List : 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+
+Inserting 25 in sorted list...
+10 -> 20 -> 25 -> 30 -> 40 -> 50 -> NULL
+
+Inserting 5 (smallest) in sorted list...
+5 -> 10 -> 20 -> 25 -> 30 -> 40 -> 50 -> NULL
+
+Inserting 60 (largest) in sorted list...
+5 -> 10 -> 20 -> 25 -> 30 -> 40 -> 50 -> 60 -> NULL
+```
+
+---
