@@ -56,3 +56,12 @@ List after searching 40: 40 -> 10 -> 20 -> 30 -> 50 -> NULL
 ```
 
 ---
+
+## insertion.cpp
+```
+--- Linked List: Insertion Showcase ---
+
+Linked List After Insertions: 5 -> 10 -> 20 -> 25 -> 30 -> NULL
+```
+
+---
