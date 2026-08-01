@@ -43,3 +43,16 @@ Maximum Element (Recursive) : 89
 ```
 
 ---
+
+## linear_search.cpp
+```
+--- Linked List: Linear Search & Move to Head ---
+
+Initial Linked List: 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+
+Searching for 40 using Move-to-Head...
+Element 40 found in memory!
+List after searching 40: 40 -> 10 -> 20 -> 30 -> 50 -> NULL
+```
+
+---
