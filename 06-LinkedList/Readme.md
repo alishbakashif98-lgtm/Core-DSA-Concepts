@@ -146,3 +146,16 @@ Merged Sorted List: 10 -> 20 -> 30 -> 40 -> 50 -> 60 -> 70 -> 80 -> NULL
 
 ---
 
+## check_for_loop.cpp
+```
+--- Linked List: Loop Detection ---
+
+Linear List: 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+Result: No Loop (Linear List)
+
+Checking again after creating a loop (50 -> 30)...
+Result: Loop Detected!
+```
+
+---
+
