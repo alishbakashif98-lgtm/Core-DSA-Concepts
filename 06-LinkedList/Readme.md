@@ -83,3 +83,53 @@ Inserting 60 (largest) in sorted list...
 ```
 
 ---
+
+## deletion.cpp
+```
+--- Linked List: Deletion Operations ---
+
+Initial Linked List: 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+
+Deleting node at position 1 (Head)...
+Deleted Value: 10
+List after deletion: 20 -> 30 -> 40 -> 50 -> NULL
+
+Deleting node at position 3...
+Deleted Value: 40
+List after deletion: 20 -> 30 -> 50 -> NULL
+```
+
+---
+
+## check_sorted.cpp
+```
+--- Linked List: Check if Sorted ---
+
+List 1: 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+Result: List 1 is Sorted!
+
+List 2: 10 -> 25 -> 15 -> 40 -> 50 -> NULL
+Result: List 2 is NOT Sorted!
+```
+
+---
+
+## remove_duplicates.cpp
+```
+--- Linked List: Remove Duplicates ---
+
+Initial List with Duplicates: 10 -> 20 -> 20 -> 30 -> 40 -> 40 -> 40 -> 50 -> NULL
+List after Removing Duplicates: 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+```
+
+---
+
+## reversing_linked_list.cpp
+```
+--- Linked List: Reverse List (Sliding Pointers) ---
+
+Original List : 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+Reversed List : 50 -> 40 -> 30 -> 20 -> 10 -> NULL
+```
+
+---
