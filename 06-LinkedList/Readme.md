@@ -133,3 +133,16 @@ Reversed List : 50 -> 40 -> 30 -> 20 -> 10 -> NULL
 ```
 
 ---
+
+## concatenation_and_merging.cpp
+```
+--- Linked List: Merging Sorted Lists ---
+
+List 1: 10 -> 30 -> 50 -> 70 -> NULL
+List 2: 20 -> 40 -> 60 -> 80 -> NULL
+
+Merged Sorted List: 10 -> 20 -> 30 -> 40 -> 50 -> 60 -> 70 -> 80 -> NULL
+```
+
+---
+
