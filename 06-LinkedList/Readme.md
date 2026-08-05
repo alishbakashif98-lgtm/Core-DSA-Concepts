@@ -159,3 +159,12 @@ Result: Loop Detected!
 
 ---
 
+## circular_linked_list.cpp
+```
+--- Circular Linked List: Creation & Display ---
+
+Circular List Elements: 10 -> 20 -> 30 -> 40 -> 50 -> (Head)
+```
+
+---
+
