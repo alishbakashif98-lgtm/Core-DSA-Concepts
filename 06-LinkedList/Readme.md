@@ -204,6 +204,23 @@ Initial Doubly List: 10 <-> 20 <-> 30 <-> 40 <-> NULL
 
 Inserting 5 at Head (pos 0)...
 5 <-> 10 <-> 20 <-> 30 <-> 40 <-> NULL
+
+Inserting 25 at position 3...
+5 <-> 10 <-> 20 <-> 25 <-> 30 <-> 40 <-> NULL
+
+Deleting Head Node (pos 1)...
+Deleted Value: 5
+10 <-> 20 <-> 25 <-> 30 <-> 40 <-> NULL
+```
+
+---
+
+## reverse_doubly_linked_list.cpp
+```
+--- Doubly Linked List: Reverse List ---
+
+Original List : 10 <-> 20 <-> 30 <-> 40 <-> 50 <-> NULL
+Reversed List : 50 <-> 40 <-> 30 <-> 20 <-> 10 <-> NULL
 ```
 
 ---
