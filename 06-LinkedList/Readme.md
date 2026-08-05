@@ -195,3 +195,15 @@ Doubly Linked List Elements: 10 <-> 20 <-> 30 <-> 40 <-> 50 <-> NULL
 ```
 
 ---
+
+## doubly_insertion_deletion.cpp
+```
+--- Doubly Linked List: Insert & Delete Operations ---
+
+Initial Doubly List: 10 <-> 20 <-> 30 <-> 40 <-> NULL
+
+Inserting 5 at Head (pos 0)...
+5 <-> 10 <-> 20 <-> 30 <-> 40 <-> NULL
+```
+
+---
