@@ -168,3 +168,21 @@ Circular List Elements: 10 -> 20 -> 30 -> 40 -> 50 -> (Head)
 
 ---
 
+## circular_insertion_deletion.cpp
+```
+--- Circular List: Insert & Delete Operations ---
+
+Initial Circular List: 10 -> 20 -> 30 -> 40 -> (Head)
+
+Inserting 5 at Head (pos 0)...
+5 -> 10 -> 20 -> 30 -> 40 -> (Head)
+
+Inserting 25 at position 3...
+5 -> 10 -> 20 -> 25 -> 30 -> 40 -> (Head)
+
+Deleting Head Node (pos 1)...
+Deleted Value: 5
+10 -> 20 -> 25 -> 30 -> 40 -> (Head)
+```
+
+---
