@@ -186,3 +186,12 @@ Deleted Value: 5
 ```
 
 ---
+
+## doubly_linked_list.cpp
+```
+--- Doubly Linked List: Creation & Display ---
+
+Doubly Linked List Elements: 10 <-> 20 <-> 30 <-> 40 <-> 50 <-> NULL
+```
+
+---
