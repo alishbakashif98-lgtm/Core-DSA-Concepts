@@ -16,3 +16,19 @@ Stack (Top to Bottom): 30 20 10
 ```
 
 ---
+
+## stack_linked_list.cpp
+```
+--- Stack Implementation using Linked List ---
+Stack (Top to Bottom): 50 -> 40 -> 30 -> 20 -> 10 -> NULL
+
+Top Element               : 50
+Element at position 1 (Top): 50
+Element at position 3       : 30
+
+Popped element: 50
+Popped element: 40
+Stack (Top to Bottom): 30 -> 20 -> 10 -> NULL
+```
+
+---
