@@ -234,3 +234,17 @@ Middle Element Value : 30
 ```
 
 ---
+
+## intersection_point.cpp
+```
+--- Linked List: Intersection Point of Two Lists ---
+
+List 1: 10 -> 20 -> 30 -> 40 -> NULL
+List 2: 5 -> 30 -> 40 -> NULL
+
+Intersection Node Found!
+Intersection Node Data: 30
+Intersection Memory Address: 0xee7af0
+```
+
+---
