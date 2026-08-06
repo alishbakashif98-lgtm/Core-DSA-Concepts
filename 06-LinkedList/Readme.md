@@ -224,3 +224,13 @@ Reversed List : 50 <-> 40 <-> 30 <-> 20 <-> 10 <-> NULL
 ```
 
 ---
+
+## middle_element.cpp
+```
+--- Linked List: Finding Middle Element ---
+
+Linked List Elements: 10 -> 20 -> 30 -> 40 -> 50 -> NULL
+Middle Element Value : 30
+```
+
+---
