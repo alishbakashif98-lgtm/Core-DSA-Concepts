@@ -1,0 +1,18 @@
+## Outputs of Stack
+
+## stack_array.cpp
+```
+--- Stack Implementation using Array ---
+Stack (Top to Bottom): 50 40 30 20 10 
+Stack Overflow! Cannot push 60
+
+Element at position 1 (Top) : 50
+Element at position 3        : 30
+Current Top Element         : 50
+
+Popped element: 50
+Popped element: 40
+Stack (Top to Bottom): 30 20 10 
+```
+
+---
