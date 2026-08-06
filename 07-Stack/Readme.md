@@ -32,3 +32,14 @@ Stack (Top to Bottom): 30 -> 20 -> 10 -> NULL
 ```
 
 ---
+
+## parenthesis_matching.cpp
+```
+--- Stack Application: Parentheses Matching ---
+
+Expression 1: ((a+b)*(c-d)) -> Balanced
+Expression 2: (((a+b)*c) -> Unbalanced
+Expression 3: ((a+b)*c)) -> Unbalanced
+```
+
+---
