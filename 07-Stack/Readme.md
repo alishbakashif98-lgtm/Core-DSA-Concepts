@@ -80,3 +80,16 @@ Postfix 2: abcd^e-fgh*+^*+i-
 ```
 
 ---
+
+## postfix_evaluation.cpp
+```
+--- Stack Application: Evaluation of Postfix Expression ---
+
+Postfix Expression 1: 35*2+
+Evaluation Result 1   : 17
+
+Postfix Expression 2: 234*+5-
+Evaluation Result 2   : 9
+```
+
+---
