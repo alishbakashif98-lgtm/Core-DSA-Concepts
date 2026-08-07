@@ -54,3 +54,16 @@ Expression 3: {[(a+b])} -> Unbalanced
 ```
 
 ---
+
+## infix_to_postfix.cpp
+```
+--- Stack Application: Infix to Postfix Conversion ---
+
+Infix Expression 1  : a+b*c
+Postfix Expression 1: abc*+
+
+Infix Expression 2  : a+b*c-d/e
+Postfix Expression 2: abc*+de/-
+```
+
+---
