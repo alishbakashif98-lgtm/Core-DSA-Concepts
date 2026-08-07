@@ -67,3 +67,16 @@ Postfix Expression 2: abc*+de/-
 ```
 
 ---
+
+## infix_to_postfix_advanced.cpp
+```
+--- Stack Application: Advanced Infix to Postfix ---
+
+Infix 1  : ((a+b)*c)-d^e^f
+Postfix 1: ab+c*def^^-
+
+Infix 2  : a+b*(c^d-e)^(f+g*h)-i
+Postfix 2: abcd^e-fgh*+^*+i-
+```
+
+---
