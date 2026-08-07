@@ -22,3 +22,7 @@ This section covers special square matrix representations (Diagonal, Lower/Upper
 
 ### 📁 [06-LinkedList](./06-LinkedList/)
 This section covers linear dynamic data structures in C++, including Singly, Circular, and Doubly Linked Lists. It explores node creation, dynamic memory management, iterative and recursive traversals, node insertion, deletion, sorted verification, duplicate removal, in-place reversal using sliding pointers, sorted list merging, Floyd's cycle detection algorithm, single-pass middle element discovery using slow and fast pointers, and stack-based intersection point detection for Y-shaped linked list structures.
+
+### 📁 [07-Stack](./07-Stack/)
+
+This section covers the LIFO (Last-In, First-Out) linear data structure in C++. It explores stack operations (`push`, `pop`, `peek`, `stackTop`, `isEmpty`, `isFull`) using both contiguous dynamic arrays and Singly Linked Lists. Additionally, it features practical applications including single and extended bracket parentheses matching, operator precedence-based Infix to Postfix conversions (with support for parentheses and right-associative exponentiation), and single-pass evaluation of postfix expressions using an operand stack.
