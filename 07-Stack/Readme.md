@@ -43,3 +43,14 @@ Expression 3: ((a+b)*c)) -> Unbalanced
 ```
 
 ---
+
+## extended_parenthesis_matching.cpp
+```
+--- Stack Application: Extended Parentheses Matching ---
+
+Expression 1: {[a+b]*(c+d)} -> Balanced
+Expression 2: {[(a+b)]} -> Balanced
+Expression 3: {[(a+b])} -> Unbalanced
+```
+
+---
