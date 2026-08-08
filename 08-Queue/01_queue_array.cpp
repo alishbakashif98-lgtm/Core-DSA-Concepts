@@ -1,11 +1,14 @@
 /*
-Program Name: Queue - Implementation using Array
+Program Name: Queue - Implementation using Array (Class-based)
 
+====================================================================================================
+                                      DETAILED MASTER NOTES
+====================================================================================================
 
 1. CONCEPTUAL DEFINITION:
 ----------------------------------------------------------------------------------------------------
    - A Queue is a linear FIFO (First In, First Out) data structure.
-   - Array implementation uses two pointers: `front` (for deletion) and `rear` (for insertion).
+   - Encapsulated within a C++ class with private members (`size`, `front`, `rear`, `Q`).
 
 2. ALGORITHMIC FLOW:
 ----------------------------------------------------------------------------------------------------
@@ -19,100 +22,102 @@ Program Name: Queue - Implementation using Array
 3. COMPLEXITY ANALYSIS:
 ----------------------------------------------------------------------------------------------------
    - Time Complexity  : O(1) for Enqueue and Dequeue.
-   - Space Complexity : O(n) Array allocation.
+   - Space Complexity : O(n) Dynamic Array allocation.
 ====================================================================================================
 */
 
 #include <iostream>
 using namespace std;
 
-// Queue Structure
-struct Queue {
+class Queue {
+private:
     int size;
     int front;
     int rear;
     int* Q;
+
+public:
+    // Constructor
+    Queue(int size) {
+        this->size = size;
+        this->front = -1;
+        this->rear = -1;
+        this->Q = new int[this->size];
+    }
+
+    // Destructor
+    ~Queue() {
+        delete[] Q;
+    }
+
+    // Function to Check if Queue is Empty
+    bool isEmpty() {
+        return front == rear;
+    }
+
+    // Function to Check if Queue is Full
+    bool isFull() {
+        return rear == size - 1;
+    }
+
+    // Function to Enqueue Element
+    void enqueue(int x) {
+        if (isFull()) {
+            cout << "Queue Overflow! Cannot enqueue " << x << endl;
+        } else {
+            rear++;
+            Q[rear] = x;
+        }
+    }
+
+    // Function to Dequeue Element
+    int dequeue() {
+        int x = -1;
+        if (isEmpty()) {
+            cout << "Queue Underflow!" << endl;
+        } else {
+            front++;
+            x = Q[front];
+        }
+        return x;
+    }
+
+    // Function to Display Queue Elements
+    void display() {
+        if (isEmpty()) {
+            cout << "Queue is Empty!" << endl;
+            return;
+        }
+        cout << "Queue Elements: ";
+        for (int i = front + 1; i <= rear; i++) {
+            cout << Q[i] << " ";
+        }
+        cout << endl;
+    }
 };
 
-// Function to Create Queue
-void create(Queue* q, int size) {
-    q->size = size;
-    q->front = -1;
-    q->rear = -1;
-    q->Q = new int[q->size];
-}
-
-// Function to Check if Queue is Empty
-bool isEmpty(Queue q) {
-    return q.front == q.rear;
-}
-
-// Function to Check if Queue is Full
-bool isFull(Queue q) {
-    return q.rear == q.size - 1;
-}
-
-// Function to Enqueue (Insert) Element
-void enqueue(Queue* q, int x) {
-    if (isFull(*q)) {
-        cout << "Queue Overflow! Cannot enqueue " << x << endl;
-    } else {
-        q->rear++;
-        q->Q[q->rear] = x;
-    }
-}
-
-// Function to Dequeue (Delete) Element
-int dequeue(Queue* q) {
-    int x = -1;
-    if (isEmpty(*q)) {
-        cout << "Queue Underflow!" << endl;
-    } else {
-        q->front++;
-        x = q->Q[q->front];
-    }
-    return x;
-}
-
-// Function to Display Queue Elements
-void display(Queue q) {
-    if (isEmpty(q)) {
-        cout << "Queue is Empty!" << endl;
-        return;
-    }
-    cout << "Queue Elements: ";
-    for (int i = q.front + 1; i <= q.rear; i++) {
-        cout << q.Q[i] << " ";
-    }
-    cout << endl;
-}
-
 int main() {
-    cout << "--- Queue Implementation using Array ---" << endl;
+    cout << "--- Queue Implementation using Array (Class) ---" << endl;
 
-    Queue q;
-    create(&q, 5);
+    Queue q(5);
 
     // Enqueue elements
-    enqueue(&q, 10);
-    enqueue(&q, 20);
-    enqueue(&q, 30);
-    enqueue(&q, 40);
-    enqueue(&q, 50);
+    q.enqueue(10);
+    q.enqueue(20);
+    q.enqueue(30);
+    q.enqueue(40);
+    q.enqueue(50);
 
-    display(q);
+    q.display();
 
     // Overflow test
-    enqueue(&q, 60);
+    q.enqueue(60);
 
     // Dequeue elements
-    cout << "\nDequeued element: " << dequeue(&q) << endl;
-    cout << "Dequeued element: " << dequeue(&q) << endl;
+    cout << "\nDequeued element: " << q.dequeue() << endl;
+    cout << "Dequeued element: " << q.dequeue() << endl;
 
-    display(q);
-
-    // Cleanup memory
-    delete[] q.Q;
+    q.display();
 
     return 0;
 }
