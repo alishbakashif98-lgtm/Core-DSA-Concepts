@@ -42,3 +42,21 @@ Queue Elements: 30 40 50 60
 ```
 
 ---
+
+## DEqueue_linked_list.cpp
+```
+--- Double-Ended Queue (DEQueue) Implementation ---
+DEQueue Elements: 10 20 30 40 
+
+Dequeued from Front: 10
+Dequeued from Front: 20
+DEQueue Elements: 30 40 
+
+Enqueueing 50 and 60 at Front...
+DEQueue Elements: 60 50 30 40 
+
+Dequeued from Rear: 40
+DEQueue Elements: 60 50 30 
+```
+
+---
