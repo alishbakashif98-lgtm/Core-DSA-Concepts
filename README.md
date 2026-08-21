@@ -26,3 +26,7 @@ This section covers linear dynamic data structures in C++, including Singly, Cir
 ### 📁 [07-Stack](./07-Stack/)
 
 This section covers the LIFO (Last-In, First-Out) linear data structure in C++. It explores stack operations (`push`, `pop`, `peek`, `stackTop`, `isEmpty`, `isFull`) using both contiguous dynamic arrays and Singly Linked Lists. Additionally, it features practical applications including single and extended bracket parentheses matching, operator precedence-based Infix to Postfix conversions (with support for parentheses and right-associative exponentiation), and single-pass evaluation of postfix expressions using an operand stack.
+
+### 📁 [08-Queue](./08-Queue/)
+
+This section covers the FIFO (First-In, First-Out) linear data structure in C++ using Object-Oriented Programming (OOP) principles. It includes linear array queues with two-pointer tracking (`front`, `rear`), space-efficient circular queues via modulo indexing arithmetic, dynamic linked list-based queues, double-ended queues (DEQueue) for bidirectional operations, and multi-level priority queues backed by an array of queues.
