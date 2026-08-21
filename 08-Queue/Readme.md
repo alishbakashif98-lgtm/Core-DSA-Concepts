@@ -60,3 +60,26 @@ DEQueue Elements: 60 50 30
 ```
 
 ---
+
+## priority_queue.cpp
+```
+--- Priority Queue Implementation (Multiple Levels) ---
+
+--- Priority Queue State ---
+Priority 1: A B F 
+Priority 2: C E 
+Priority 3: D 
+
+--- Dequeue Operations ---
+Dequeued: A (Expected 'A' from Priority 1)
+Dequeued: B (Expected 'B' from Priority 1)
+Dequeued: F (Expected 'F' from Priority 1)
+Dequeued: C (Expected 'C' from Priority 2)
+
+--- Priority Queue State ---
+Priority 1: [Empty]
+Priority 2: E 
+Priority 3: D 
+```
+
+---
