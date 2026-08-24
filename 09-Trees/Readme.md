@@ -42,3 +42,24 @@ Post-order Traversal : 20 30 10
 ```
 
 ---
+
+## level_order_traversal.cpp
+```
+--- Binary Tree Level Order Traversal ---
+Enter root value: 10
+Enter left child of 10 (-1 for no node): 20
+Enter right child of 10 (-1 for no node): 30
+Enter left child of 20 (-1 for no node): 40
+Enter right child of 20 (-1 for no node): 50
+Enter left child of 30 (-1 for no node): -1
+Enter right child of 30 (-1 for no node): -1
+Enter left child of 40 (-1 for no node): -1
+Enter right child of 40 (-1 for no node): -1
+Enter left child of 50 (-1 for no node): -1
+Enter right child of 50 (-1 for no node): -1
+
+--- Traversal Output ---
+Level-order Traversal: 10 20 30 40 50
+```
+
+---
