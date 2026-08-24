@@ -23,3 +23,22 @@ Binary Tree successfully created with Root: 9
 ```
 
 ---
+
+## binary_tree_recursive_traversals.cpp
+```
+--- Binary Tree Recursive Traversals ---
+Enter root value: 10
+Enter left child of 10 (-1 for no node): 20
+Enter right child of 10 (-1 for no node): 30
+Enter left child of 20 (-1 for no node): -1
+Enter right child of 20 (-1 for no node): -1
+Enter left child of 30 (-1 for no node): -1
+Enter right child of 30 (-1 for no node): -1
+
+--- Traversal Outputs ---
+Pre-order Traversal  : 10 20 30 
+In-order Traversal   : 20 10 30 
+Post-order Traversal : 20 30 10
+```
+
+---
