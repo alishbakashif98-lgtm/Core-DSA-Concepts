@@ -63,3 +63,21 @@ Level-order Traversal: 10 20 30 40 50
 ```
 
 ---
+
+## binary_tree_iterative_traversals.cpp
+```
+--- Binary Tree Iterative Traversals ---
+Enter root value: 10
+Enter left child of 10 (-1 for no node): 20
+Enter right child of 10 (-1 for no node): 30
+Enter left child of 20 (-1 for no node): -1
+Enter right child of 20 (-1 for no node): -1
+Enter left child of 30 (-1 for no node): -1
+Enter right child of 30 (-1 for no node): -1
+
+--- Traversal Outputs ---
+Iterative Pre-order Traversal: 10 20 30 
+Iterative In-order Traversal : 20 10 30
+```
+
+---
