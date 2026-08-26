@@ -30,3 +30,7 @@ This section covers the LIFO (Last-In, First-Out) linear data structure in C++. 
 ### 📁 [08-Queue](./08-Queue/)
 
 This section covers the FIFO (First-In, First-Out) linear data structure in C++ using Object-Oriented Programming (OOP) principles. It includes linear array queues with two-pointer tracking (`front`, `rear`), space-efficient circular queues via modulo indexing arithmetic, dynamic linked list-based queues, double-ended queues (DEQueue) for bidirectional operations, and multi-level priority queues backed by an array of queues.
+
+### 📁 [09-Trees](./09-Trees/)
+
+This section covers hierarchical tree data structures implemented in C++ using Object-Oriented Programming (OOP). It includes dynamic level-order binary tree generation using custom pointer queues, recursive and stack-based iterative traversals (Pre-order, In-order, Post-order, Level-order BFS), structural tree analytics (node counting, tree height, leaf/internal nodes, node sum), and complete tree reconstruction from traversal sequences (Preorder + Inorder).
