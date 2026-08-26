@@ -106,3 +106,16 @@ Sum of All Node Values : 150
 ```
 
 ---
+
+## generate_tree_from_traversals.cpp
+```
+--- Binary Tree Generation from Traversals ---
+Given Pre-order: 4 7 6 9 10 2 
+Given In-order : 7 6 4 10 9 2 
+
+--- Verification Traversals ---
+Reconstructed Tree In-order   : 7 6 4 10 9 2 
+Reconstructed Tree Post-order : 6 7 10 2 9 4
+```
+
+---
