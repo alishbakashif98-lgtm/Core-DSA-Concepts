@@ -81,3 +81,28 @@ Iterative In-order Traversal : 20 10 30
 ```
 
 ---
+
+## binary_tree_operations.cpp
+```
+--- Binary Tree Operations & Calculations ---
+Enter root value: 10
+Enter left child of 10 (-1 for no node): 20
+Enter right child of 10 (-1 for no node): 30
+Enter left child of 20 (-1 for no node): 40
+Enter right child of 20 (-1 for no node): 50
+Enter left child of 30 (-1 for no node): -1
+Enter right child of 30 (-1 for no node): -1
+Enter left child of 40 (-1 for no node): -1
+Enter right child of 40 (-1 for no node): -1
+Enter left child of 50 (-1 for no node): -1
+Enter right child of 50 (-1 for no node): -1
+
+--- Tree Metrics & Calculations ---
+Total Number of Nodes  : 5
+Height of Binary Tree  : 3
+Leaf Nodes (Degree 0)  : 3
+Non-Leaf (Internal)    : 2
+Sum of All Node Values : 150
+```
+
+---
