@@ -19,3 +19,11 @@ BST In-order (Sorted Sequence): 20 30 40 50 60 70 80
    - Searching for 45: Found in BST
    - Searching for 12: Not Found
 ```
+
+## generate_bst_from_preorder.cpp
+```
+--- Generate BST from Preorder Traversal ---
+Given Preorder Sequence: 30 20 10 15 25 40 50 
+
+Generated BST In-order (Sorted): 10 15 20 25 30 40 50
+```
