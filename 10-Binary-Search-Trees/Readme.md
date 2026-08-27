@@ -20,6 +20,21 @@ BST In-order (Sorted Sequence): 20 30 40 50 60 70 80
    - Searching for 12: Not Found
 ```
 
+## bst_deletion.cpp
+```
+--- Binary Search Tree (BST) Node Deletion ---
+Initial BST In-order: 20 30 40 50 60 70 80 
+
+Deleting Leaf Node (20)...
+BST In-order: 30 40 50 60 70 80 
+
+Deleting Node with Child (30)...
+BST In-order: 40 50 60 70 80 
+
+Deleting Root Node (50)...
+BST In-order: 40 60 70 80
+```
+
 ## generate_bst_from_preorder.cpp
 ```
 --- Generate BST from Preorder Traversal ---
