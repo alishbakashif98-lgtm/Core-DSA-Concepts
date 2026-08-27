@@ -34,3 +34,7 @@ This section covers the FIFO (First-In, First-Out) linear data structure in C++ 
 ### 📁 [09-Trees](./09-Trees/)
 
 This section covers hierarchical tree data structures implemented in C++ using Object-Oriented Programming (OOP). It includes dynamic level-order binary tree generation using custom pointer queues, recursive and stack-based iterative traversals (Pre-order, In-order, Post-order, Level-order BFS), structural tree analytics (node counting, tree height, leaf/internal nodes, node sum), and complete tree reconstruction from traversal sequences (Preorder + Inorder).
+
+### 📁 [10-Binary-Search-Trees](./10-Binary-Search-Trees/)
+
+This section covers Binary Search Trees (BST) implemented in C++ using Object-Oriented Programming (OOP). It includes dynamic node insertion, recursive/iterative search algorithms, height-balanced recursive node deletion with in-order predecessor/successor replacements, and $O(n)$ stack-based tree reconstruction directly from preorder traversal sequences.
