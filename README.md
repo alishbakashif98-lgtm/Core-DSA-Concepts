@@ -46,3 +46,7 @@ This section covers Self-Balancing Binary Search Trees (AVL Trees) implemented i
 ### 📁 [12-Search-Trees](./12-Search-Trees/)
 
 This section covers Multi-Way Search Trees (2-3 Trees, 2-3-4 Trees, B-Trees, and B+ Trees) implemented in C++ using Object-Oriented Programming (OOP). It details dynamic multi-key node structures, sorted child pointer routing, bottom-up middle key promotions on node overflow, and disk-optimized balanced search algorithms.
+
+### 📁 [13-Binary-Heap](./13-Binary-Heap/)
+
+This section covers Binary Heap and Priority Queue mechanisms implemented in C++ using contiguous dynamic arrays. It includes bottom-up bubble-up insertion, top-down root deletion, an optimal $O(n)$ bottom-up Heapify construction algorithm, and in-place $O(n \log n)$ Heap Sort.
