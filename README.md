@@ -1,5 +1,5 @@
 # Core-DSA-Concepts
-A well-organized repository containing fundamental to advanced Data Structures and Algorithms implemented in C and C++. This repository follows a structured learning path based on Master Classes.
+A well-organized repository containing fundamental to advanced Data Structures and Algorithms implemented in C and C++. This repository follows a structured learning path.
 
 ## 📂 Repository Structure & Sections
 
@@ -42,3 +42,7 @@ This section covers Binary Search Trees (BST) implemented in C++ using Object-Or
 ### 📁 [11-AVL-Trees](./11-AVL-Trees/)
 
 This section covers Self-Balancing Binary Search Trees (AVL Trees) implemented in C++ using Object-Oriented Programming (OOP). It details Balance Factor calculations ($|bf| \le 1$), single and double rebalancing rotations (LL, RR, LR, RL), recursive node insertion, and height-balanced node deletion algorithms with guaranteed $O(\log n)$ performance.
+
+### 📁 [12-Search-Trees](./12-Search-Trees/)
+
+This section covers Multi-Way Search Trees (2-3 Trees, 2-3-4 Trees, B-Trees, and B+ Trees) implemented in C++ using Object-Oriented Programming (OOP). It details dynamic multi-key node structures, sorted child pointer routing, bottom-up middle key promotions on node overflow, and disk-optimized balanced search algorithms.
