@@ -38,3 +38,7 @@ This section covers hierarchical tree data structures implemented in C++ using O
 ### 📁 [10-Binary-Search-Trees](./10-Binary-Search-Trees/)
 
 This section covers Binary Search Trees (BST) implemented in C++ using Object-Oriented Programming (OOP). It includes dynamic node insertion, recursive/iterative search algorithms, height-balanced recursive node deletion with in-order predecessor/successor replacements, and $O(n)$ stack-based tree reconstruction directly from preorder traversal sequences.
+
+### 📁 [11-AVL-Trees](./11-AVL-Trees/)
+
+This section covers Self-Balancing Binary Search Trees (AVL Trees) implemented in C++ using Object-Oriented Programming (OOP). It details Balance Factor calculations ($|bf| \le 1$), single and double rebalancing rotations (LL, RR, LR, RL), recursive node insertion, and height-balanced node deletion algorithms with guaranteed $O(\log n)$ performance.
