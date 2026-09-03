@@ -15,3 +15,12 @@ Selection Sorted: 11 12 22 25 64
 ```
 
 ---
+
+## quick_sort.cpp
+```
+--- Quick Sort (Divide and Conquer Partitioning) ---
+Original Unsorted Array : 50 70 60 90 40 80 10 20 30 
+Sorted Array (QuickSort): 10 20 30 40 50 60 70 80 90 
+```
+
+---
