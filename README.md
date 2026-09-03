@@ -50,3 +50,7 @@ This section covers Multi-Way Search Trees (2-3 Trees, 2-3-4 Trees, B-Trees, and
 ### 📁 [13-Binary-Heap](./13-Binary-Heap/)
 
 This section covers Binary Heap and Priority Queue mechanisms implemented in C++ using contiguous dynamic arrays. It includes bottom-up bubble-up insertion, top-down root deletion, an optimal $O(n)$ bottom-up Heapify construction algorithm, and in-place $O(n \log n)$ Heap Sort.
+
+### 📁 [14-Sorting-Techniques](./14-Sorting-Techniques/)
+
+This section provides a complete suite of sorting algorithms implemented in C++ using Object-Oriented Programming (OOP). It covers comparison-based techniques—adaptive Bubble Sort, Insertion Sort, Selection Sort, Quick Sort (Hoare-style partitioning), and 2-Way Merge Sort (Iterative and Recursive)—alongside non-comparison linear-time algorithms ($O(n)$) including Count Sort, Bucket/Bin Sort, and Radix Sort.
